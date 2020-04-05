@@ -27,7 +27,7 @@ bit==0.6.1
 bitarray==1.0.1
 bitstring==3.1.6
 bkcharts==0.2
-bleach==3.1.0
+bleach==3.1.4
 blessings==1.7
 blinker==1.4
 bokeh==1.3.4
